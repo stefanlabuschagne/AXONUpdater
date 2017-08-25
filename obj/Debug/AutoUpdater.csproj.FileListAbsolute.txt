@@ -1,0 +1,22 @@
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Form1.resources
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\vul2214\My Documents\Visual Studio 2008\Projects\AutoUpdater\AutoUpdater\bin\Debug\Setup.txt
+C:\Users\stefanl\Desktop\AutoUpdater\bin\Debug\Setup.txt
+C:\Users\stefanl\Desktop\AutoUpdater\bin\Debug\AutoUpdater.exe.manifest
+C:\Users\stefanl\Desktop\AutoUpdater\bin\Debug\AutoUpdater.application
+C:\Users\stefanl\Desktop\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\stefanl\Desktop\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.Form1.resources
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.exe.manifest
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.application
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Users\stefanl\Desktop\AutoUpdater\obj\Debug\AutoUpdater.pdb

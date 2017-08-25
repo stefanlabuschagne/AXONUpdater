@@ -1,0 +1,5 @@
+﻿PollingIntervalSeconds=6
+PollingUrl=http://176.58.121.103/autoupdate/auto.jsp
+DownloadURL=http://176.58.121.103/autoupdate/package/update.zip
+PollingUrl2=http://176.58.121.103/autoupdate/auto.jsp
+DownloadURL2=http://176.58.121.103/autoupdate/package/update.zip

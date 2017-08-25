@@ -1,0 +1,5 @@
+﻿PollingIntervalSeconds=30
+PollingUrl=http://mmkycng.mtnonline.com/autoupdate/auto_axon.jsp
+DownloadURL=http://mmkycng.mtnonline.com/autoupdate/package/update_axon.zip
+PollingUrl2=http://192.168.0.2.mtnonline.com/autoupdate/auto_axon.jsp
+DownloadURL2=http://192.168.0.2.mtnonline.com/autoupdate/package/update_axon.zip
